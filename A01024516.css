@@ -1,0 +1,21 @@
+body {
+    color:black;
+    margin: 2px red;
+}
+
+header {
+    color:black;
+}
+
+ul {
+    color:black;
+}
+
+nav li {
+    display: inline;
+}
+
+img {
+    width: 33%;
+    border: 2px black;
+}
